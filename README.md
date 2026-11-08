@@ -5,7 +5,7 @@ Soy Estudiante de desarrollo de software enfocado en BACKEND. Me apasiona constr
 arquitecturas robustas, eficientes y limpias que resuelvan problemas reales.
 
 ## Portafolio web
-https://camilo29304.vercel.app/#sobre-mi
+https://camilo29304.vercel.app/
 
 ### 🛠️ Mis Tecnologías
 
